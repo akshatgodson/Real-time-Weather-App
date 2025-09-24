@@ -25,6 +25,6 @@ Tech Stack
 
 >Networking: Retrofit
 
->Backend: Firebase (optional)
+>Backend: Firebase 
 
 Architecture: MVVM (Model-View-ViewModel)
